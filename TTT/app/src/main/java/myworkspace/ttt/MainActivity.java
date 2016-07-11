@@ -12,5 +12,6 @@ public class MainActivity extends AppCompatActivity {
 
 
         // 开屏页代码
+        // 开屏页完成
     }
 }
